@@ -1,0 +1,25 @@
+body {
+    background-image: url(./image/background.jpeg);
+}
+
+
+.heading {
+    color: white;
+    font-size: 2rem;
+    font-family: cursive;
+}
+
+.displayfavouriteslist {
+    margin-top: 10px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.backtohome a{
+    color: white;
+    font-family: cursive;
+}
+

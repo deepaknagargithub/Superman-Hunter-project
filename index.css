@@ -1,0 +1,48 @@
+body {
+    margin: 0px;
+    background-image: url(./image/background.jpeg);
+    text-align: center;
+}
+
+#header_top {
+    margin-top: 20px;
+    font-size: 2rem;
+    color: white;
+}
+
+#name {
+    margin-top: 50px;
+    color: white;
+    font-size: 2rem;
+    font-family: cursive;
+}
+
+#input {
+    width: 500px;
+    margin-top: 60px;
+    font-size: 1rem;
+    font-family: cursive;
+
+}
+
+#input:hover {
+
+    box-shadow: 0px 0px 6px 4px white;
+
+}
+
+#list {
+    
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+#welcome {
+    font-family: cursive;
+}
